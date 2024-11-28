@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_olika.png.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/olika.png"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_dovbush_rocks.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/dovbush_rocks.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_lake.png.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/lake.png"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_kamianets_fortress.jpg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/kamianets_fortress.jpg"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_svirzh_castle.jpeg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/svirzh_castle.jpeg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_castle.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/castle.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_hoverla.jpeg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/hoverla.jpeg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_zamok_palanok.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/zamok_palanok.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab3.app-debug-52:/drawable_olesky_castle.jpeg.flat",
+        "source": "com.example.lab3.app-main-54:/drawable/olesky_castle.jpeg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_zimne.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/zimne.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_berestechko.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/berestechko.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-debug-52:/drawable_kolodyajne.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.example.lab3.app-main-54:/drawable/kolodyajne.jpg"
+    }
+]
