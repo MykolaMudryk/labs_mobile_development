@@ -60,7 +60,8 @@ fun PlacesListScreen(
                 .fillMaxSize()
                 .padding(16.dp)
         ) {
-            items(itemListState.value) {item ->
+            items(itemListState.value) {
+                item ->
                 Row(
                     verticalAlignment = Alignment.CenterVertically,
                     horizontalArrangement = Arrangement.Center,
